@@ -1,5 +1,5 @@
 # AEROSENTINEL
-## AI-Powered Urban Air Defense & Family Resilience Intelligence
+## AI-Powered Urban Air Defense & Family Resilience Intelligence 
 
 AEROSENTINEL is a full-stack environmental decision-support application built with React, TypeScript, FastAPI and SQLite/PostgreSQL-ready persistence. It combines four systems:
 
